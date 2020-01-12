@@ -1,0 +1,13 @@
+headers:
+  header:
+    X-Lemonban-Media-Type: lemonban.v2
+  url: http://api.lemonban.com/futureloan
+mysql:
+  db: futureloan
+  host: api.lemonban.com
+  port: 3306
+  pwd: '123456'
+  user: future
+xlsx:
+  clunm: 6
+  clunm1: 8

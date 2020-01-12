@@ -1,0 +1,20 @@
+admin_user:
+  id: 905398
+  mobile_phone: '18948512679'
+  pwd: '12345678'
+  reg_name: 管理员
+invest_user:
+  id: 905397
+  mobile_phone: '13149812360'
+  pwd: '1234567890123456'
+  reg_name: 投资人
+loan_user:
+  id: 905396
+  mobile_phone: '15758241709'
+  pwd: '12345678'
+  reg_name: 借款人
+new_loan_user:
+  id: 905399
+  mobile_phone: '18995108674'
+  pwd: '12345678'
+  reg_name: 普通用户
